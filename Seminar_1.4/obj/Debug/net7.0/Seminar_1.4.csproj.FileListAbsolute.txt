@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\bin\Debug\net7.0\Seminar_1.4.exe
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\bin\Debug\net7.0\Seminar_1.4.deps.json
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\bin\Debug\net7.0\Seminar_1.4.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\bin\Debug\net7.0\Seminar_1.4.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\bin\Debug\net7.0\Seminar_1.4.pdb
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\refint\Seminar_1.4.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.pdb
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\Seminar_1.4.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\Seminar_1.4\obj\Debug\net7.0\ref\Seminar_1.4.dll
