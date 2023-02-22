@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\bin\Debug\net7.0\DZ_1.3.exe
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\bin\Debug\net7.0\DZ_1.3.deps.json
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\bin\Debug\net7.0\DZ_1.3.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\bin\Debug\net7.0\DZ_1.3.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\bin\Debug\net7.0\DZ_1.3.pdb
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\refint\DZ_1.3.dll
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.pdb
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\DZ_1.3.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\GeekBrains_6\DZ_1.3\obj\Debug\net7.0\ref\DZ_1.3.dll
